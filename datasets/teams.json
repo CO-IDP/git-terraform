@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Security Team",
+        "description": "Security Team [Test TF]",
+        "privacy": "closed"
+    },
+    {
+        "name": "Developer Team",
+        "description": "Developer Team [Test TF]",
+        "privacy": "closed"
+    }
+]
